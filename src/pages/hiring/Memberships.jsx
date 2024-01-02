@@ -89,7 +89,7 @@ const Memberships = () => {
 
       <div class="image-grid">
         <div class="image-item">
-          <img src="./discover3.jpg" alt=" "></img>
+          <img src="./class-yoga36.jpg" alt=" "></img>
           <div class="info">
             <h4>Kids Yoga Class</h4>
             <p> 5:00 PM - 6:00 PM</p>
@@ -100,7 +100,7 @@ const Memberships = () => {
         </div>
 
         <div class="image-item">
-          <img src="class-yoga8.jpg" alt=" " ></img>
+          <img src="./class-yoga37.jpg" alt=" " ></img>
           <div class="info">
             <h4>Garbhdharan Yoga (For Pre&Post-conceiving)</h4>
             <p>5:00 PM - 6:00 PM</p>
@@ -111,7 +111,7 @@ const Memberships = () => {
         </div>
 
         <div class="image-item">
-          <img src="./class-yoga11.jpg" alt=" " ></img>
+          <img src="./class-yoga38.jpg" alt=" " ></img>
           <div class="info">
             <h4>Pre & Post Natal Yoga</h4>
             <p>5:00 PM - 6:00 PM</p>
