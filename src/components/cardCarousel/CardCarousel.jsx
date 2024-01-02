@@ -90,7 +90,7 @@ const data = [
     },
     {
       name: `Dhanshree Salunkhe- Trainer`,
-      city:`Aurangabad`,
+      city:`Sambhaji Nagar`,
       img: `./dhanshree1_img.jpg`,
       review: `Online yoga instructor from YTT 200 hours based in Aurangabad Maharashtra. Dhanshri is a Athletic Coach.Individual globally certified by the Indian Yoga Association. She has strong yoga skills and can help yogis with building their yoga skills.`
     },
