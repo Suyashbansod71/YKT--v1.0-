@@ -1,6 +1,6 @@
 import './App.css';
 import Home from './pages/home/Home';
-import {Route, Routes} from "react-router-dom"
+import {BrowserRouter,Route, Routes} from "react-router-dom"
 import Scheduling from './pages/schedulingAndBooking/Scheduling';
 // import WeAreHiring from './pages/hiring/WeAreHiring';
 import ContactUs from './pages/contactUs/ContactUs';
